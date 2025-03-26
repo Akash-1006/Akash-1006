@@ -52,13 +52,6 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akash-1006&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ### 📫 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-balaji-24a25a250)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pcresolvechannel2229/featured)
