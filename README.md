@@ -39,7 +39,7 @@
 ### 🚀 **Top Projects**
 -  [📌 Ingrify-Ingredients Insights and Personalised Allergen Alerts](https://github.com/Akash-1006/INGRIFY)
 -  [📌 OSINT Investigation: Tracing a Scammer’s Digital Footprint](https://medium.com/@akashbalaji369/story-of-tracing-a-scammer-osint-e4b321b956cc)  
--  📌 Telstra Cybersecurity Internship Projects
+-  [📌 Amazon Clone - Frontend](https://github.com/Akash-1006/clone-amazon)
 - [📌 SIEM Setup & Threat Monitoring (Azure Sentinel)](https://github.com/Akash-1006/SIEM-Dashboard)  
 - [📌 Sudoku Solver (Java)](https://github.com/Akash-1006/Algorithms)  
 ---
