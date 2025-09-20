@@ -7,7 +7,7 @@
 - 🏆 **Top 5% worldwide in TryHackMe challenges**  
 - 🔍 **OSINT Enthusiast - Traced real-world scams using digital forensics**  
 - 📺 **I run a YouTube channel: [PC Resolve Channel](https://www.youtube.com/@pcresolvechannel2229/featured)**  
-- 🌱 **Currently exploring CEH, AWS & Full-Stack Development**  
+- 🌱 **Currently exploring AWS & Full-Stack Development**  
 ---
 
 ### 🛠️ **Tech Stack**
