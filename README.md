@@ -3,7 +3,7 @@
 ### 💻 Cybersecurity | Software Developer | OSINT | Cloud Security | Networking  
 
 - 🔐 **Cybersecurity Lead at GDG - SIMATS**  
-- 🎯 **ISC2 Certified in Cybersecurity | Google Cybersecurity Certified**  
+- 🎯 **CEH Certified**|**ISC2 Certified in Cybersecurity | Google Cybersecurity Certified**  
 - 🏆 **Top 5% worldwide in TryHackMe challenges**  
 - 🔍 **OSINT Enthusiast - Traced real-world scams using digital forensics**  
 - 📺 **I run a YouTube channel: [PC Resolve Channel](https://www.youtube.com/@pcresolvechannel2229/featured)**  
