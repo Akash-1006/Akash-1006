@@ -45,7 +45,7 @@
 ---
 
 ### 📜 **Certifications**
-- ✅ **CEH (Certified Ethical Hacker) **  
+- ✅ **CEH (Certified Ethical Hacker)**  
 - ✅ **ISC2 - Certified in Cybersecurity (CC)**
 - ✅ **Google Cybersecurity Professional Certificate**
 - ✅ **Cisco - Introduction to Cybersecurity**
