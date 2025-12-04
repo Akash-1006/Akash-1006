@@ -23,6 +23,9 @@
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0C54C2?style=for-the-badge&logo=xml&logoColor=white)
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
 #### 🔹 **Cybersecurity & Networking**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
