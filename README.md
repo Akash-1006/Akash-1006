@@ -32,7 +32,6 @@
 ![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-000000?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
 ![OSINT](https://img.shields.io/badge/OSINT-5A5A5A?style=for-the-badge)
 ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability_Analysis-AA0000?style=for-the-badge)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
