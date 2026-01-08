@@ -41,7 +41,7 @@
 
 
 ### 🚀 **Top Projects**
--  [📌 Ingrify-Ingredients Insights and Personalised Allergen Alerts]([https://github.com/Akash-1006/INGRIFY](https://play.google.com/store/apps/details?id=com.simats.ingrify))
+-  [📌 Ingrify-Ingredients Insights and Personalised Allergen Alerts](https://play.google.com/store/apps/details?id=com.simats.ingrify)
 -  [📌 OSINT Investigation: Tracing a Scammer’s Digital Footprint](https://medium.com/@akashbalaji369/story-of-tracing-a-scammer-osint-e4b321b956cc)
 -  [📌 Courier Tracking Automation](https://courier-tracking-automation.vercel.app/)
 
