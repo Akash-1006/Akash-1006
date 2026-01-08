@@ -40,10 +40,15 @@
 
 
 
-### 🚀 **Top Projects**
--  [📌 Ingrify-Ingredients Insights and Personalised Allergen Alerts](https://play.google.com/store/apps/details?id=com.simats.ingrify)
+### 🚀 **Top Projects**- 
+- 📌 Ingrify – Ingredients Insights and Personalised Allergen Alerts
+  [![Play Store](https://img.shields.io/badge/Play%20Store-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.simats.ingrify)
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Akash-1006/INGRIFY)
+
 -  [📌 OSINT Investigation: Tracing a Scammer’s Digital Footprint](https://medium.com/@akashbalaji369/story-of-tracing-a-scammer-osint-e4b321b956cc)
--  [📌 Courier Tracking Automation](https://courier-tracking-automation.vercel.app/)
+- 📌 Courier Tracking Automation 
+  🌐 [Live Website](https://courier-tracking-automation.vercel.app/)
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Akash-1006/Courier_Tracking_Automation)
 
 ---
 
