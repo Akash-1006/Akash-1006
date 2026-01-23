@@ -5,7 +5,7 @@
 - 🔐 **Ex-Cybersecurity Lead at GDG - SIMATS**  
 - 🎯 **CEH Certified | ISC2 Certified in Cybersecurity | Google Cybersecurity Certified**  
 - 🏆 **Top 5% worldwide in TryHackMe challenges -2024**  
-- 🔍 **OSINT Enthusiast - Traced real-world scams using digital forensics**  
+- 🔍 **OSINT Enthusiast - Traced real-world scam using digital forensics**  
 - 📺 **I run a YouTube channel: [PC Resolve Channel](https://www.youtube.com/@pcresolvechannel2229/featured)**  
 - 🌱 **Currently exploring AWS & Full-Stack Development**  
 ---
@@ -47,7 +47,7 @@
 
 -  [📌 OSINT Investigation: Tracing a Scammer’s Digital Footprint](https://medium.com/@akashbalaji369/story-of-tracing-a-scammer-osint-e4b321b956cc)
 - 📌 Courier Tracking Automation 
-  🌐 [Live Website](https://courier-tracking-automation.vercel.app/)
+  🌐 [Live Website](https://fledge-enterprises.vercel.app/)
   [![GitHub Repo](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Akash-1006/Courier_Tracking_Automation)
 
 ---
